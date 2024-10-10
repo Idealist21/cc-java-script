@@ -52,3 +52,4 @@ let materialofLegs = "aluminum";
 let isheavy = false;
 let texture ="coarse";
 let noofTabels = 6;
+

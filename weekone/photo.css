@@ -1,0 +1,42 @@
+body{
+    background-color: antiquewhite;
+}
+
+.idea{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(12, 7, 113);
+}
+
+ h3 {
+    text-align: center;
+    font-family: sans-serif;
+} 
+
+.dramatic  button {
+    color: red;
+    padding: 20px 51px 11px;
+    height: 39PX;
+    border: 20px;
+    border-radius: 20px;
+    padding-top: 12PX;
+
+}
+
+a :hover ::pseudo c{
+    color: rgba(7, 244, 110, 0.932);
+    
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    padding: 20px 10px 11px 12px ;
+    border: 20px 13px 12px 14px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 20px ;
+    border-top: 15px 20px;
+    border-left: 20px 13px ;
+    color: rgb(1, 1, 79);
+}
